@@ -8,11 +8,12 @@
 
 - 📧 电子邮件: 3080329177@qq.com
 - 🌍 网站: https://blog.csdn.net/2301_81919613
-- 📱 电话: [如果您愿意公开，请提供电话号码]
+- 📱 电话: []
 - 📍 地址: 北京
 
 ## 🔧 技能与专长
-- 技术栈: [HTML、CSS、JavaScript、TypeScript、Vue、Uni-App、小程序]
+- 技术栈: [HTML、CSS、JavaScript、TypeScript、Vue、Uni-App、小程序]![Bootstrap Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg)
+
 - 组件库：[Ant-Design、Vant、Element]
 - 其他技能: [Git版本控制、敏捷开发]
 
