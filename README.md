@@ -25,6 +25,7 @@
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 ![Uni-App](https://img.shields.io/badge/uni--app-%23dd524c.svg?style=flat-square)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Element UI](https://img.shields.io/badge/Element%20UI-2E95F2?style=flat-square&logo=element&logoColor=white)
 ![JSON](https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg)
 ![JWT](https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg)
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
