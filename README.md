@@ -12,19 +12,29 @@
 - 📍 地址: 北京
 
 ## 🔧 技能
-![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
-![jQuery](https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery1.svg)
-![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg)
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)
 ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
 ![Vue](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg)
 ![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
 ![npm](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg)
+![jQuery](https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery1.svg)
+![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
+![Uni-App](https://img.shields.io/badge/uni--app-%23dd524c.svg?style=flat-square)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![JSON](https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg)
 ![JWT](https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg)
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
 ![Photosho](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg)
+![Chrome](https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome1.svg)
+![Firefox](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox1.svg)
+![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg)
+![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 + **Uni-App**
 + **小程序**
